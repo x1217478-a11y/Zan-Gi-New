@@ -129,7 +129,7 @@ fun HomeScreen(
             edgePadding = 12.dp,
             containerColor = PageBg,
             divider = {},
-            indicator = {}
+            indicator = { _ -> }
         ) {
             FeedTab.values().forEach { tab ->
                 val selected = uiState.selectedTab == tab

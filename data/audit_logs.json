@@ -1,5 +1,129 @@
 [
   {
+    "id": "log_1792225276718_dj35d",
+    "userId": "user_1792225276589_n0ez",
+    "action": "ACCOUNT_PERMANENTLY_DELETED",
+    "timestamp": "2026-10-17T08:21:16.718Z",
+    "details": {},
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "log_1792225276684_vdzjul",
+    "userId": "user_1792225276557_5pdi",
+    "action": "ACCOUNT_PERMANENTLY_DELETED",
+    "timestamp": "2026-10-17T08:21:16.684Z",
+    "details": {},
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "log_1792225276641_rg5og",
+    "userId": "user_1792225276589_n0ez",
+    "action": "COIN_TIP_RECEIVED",
+    "timestamp": "2026-10-17T08:21:16.641Z",
+    "details": {
+      "senderId": "user_1792225276557_5pdi",
+      "coinsAmount": 50,
+      "note": "Great animation video!"
+    },
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "log_1792225276641_c0tjup",
+    "userId": "user_1792225276557_5pdi",
+    "action": "COIN_TIP_SENT",
+    "timestamp": "2026-10-17T08:21:16.641Z",
+    "details": {
+      "recipientId": "user_1792225276589_n0ez",
+      "coinsAmount": 50,
+      "note": "Great animation video!"
+    },
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "log_1792225276591_dwxdvs",
+    "userId": "user_1792225276589_n0ez",
+    "action": "USER_REGISTERED",
+    "timestamp": "2026-10-17T08:21:16.591Z",
+    "details": {
+      "email": "recipient_1792225276526@zangi.app",
+      "username": "recipient_1792225276526"
+    },
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "log_1792225276558_6hmpyc",
+    "userId": "user_1792225276557_5pdi",
+    "action": "USER_REGISTERED",
+    "timestamp": "2026-10-17T08:21:16.558Z",
+    "details": {
+      "email": "creator_1792225276526@zangi.app",
+      "username": "creator_1792225276526"
+    },
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "log_1792224981953_kgsfvv",
+    "userId": "user_1792224981828_87xg",
+    "action": "ACCOUNT_PERMANENTLY_DELETED",
+    "timestamp": "2026-10-17T08:16:21.953Z",
+    "details": {},
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "log_1792224981920_00rven",
+    "userId": "user_1792224981794_mrwi",
+    "action": "ACCOUNT_PERMANENTLY_DELETED",
+    "timestamp": "2026-10-17T08:16:21.920Z",
+    "details": {},
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "log_1792224981878_w0zpct",
+    "userId": "user_1792224981828_87xg",
+    "action": "COIN_TIP_RECEIVED",
+    "timestamp": "2026-10-17T08:16:21.878Z",
+    "details": {
+      "senderId": "user_1792224981794_mrwi",
+      "coinsAmount": 50,
+      "note": "Great animation video!"
+    },
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "log_1792224981877_c6abcf",
+    "userId": "user_1792224981794_mrwi",
+    "action": "COIN_TIP_SENT",
+    "timestamp": "2026-10-17T08:16:21.877Z",
+    "details": {
+      "recipientId": "user_1792224981828_87xg",
+      "coinsAmount": 50,
+      "note": "Great animation video!"
+    },
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "log_1792224981829_pp3g6e",
+    "userId": "user_1792224981828_87xg",
+    "action": "USER_REGISTERED",
+    "timestamp": "2026-10-17T08:16:21.829Z",
+    "details": {
+      "email": "recipient_1792224981764@zangi.app",
+      "username": "recipient_1792224981764"
+    },
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "log_1792224981796_item6nj",
+    "userId": "user_1792224981794_mrwi",
+    "action": "USER_REGISTERED",
+    "timestamp": "2026-10-17T08:16:21.796Z",
+    "details": {
+      "email": "creator_1792224981764@zangi.app",
+      "username": "creator_1792224981764"
+    },
+    "ip": "127.0.0.1"
+  },
+  {
     "id": "log_1792162225672_ce0iz7",
     "userId": "user_1792162225345_sebw",
     "action": "ACCOUNT_PERMANENTLY_DELETED",
@@ -5511,138 +5635,6 @@
     "action": "ACCOUNT_PERMANENTLY_DELETED",
     "timestamp": "2026-10-15T14:39:14.594Z",
     "details": {},
-    "ip": "127.0.0.1"
-  },
-  {
-    "id": "log_1792075154515_zw5cec",
-    "userId": "user_owner_1792075154437_1w1k",
-    "action": "LOGIN_SUCCESS",
-    "timestamp": "2026-10-15T14:39:14.515Z",
-    "details": {
-      "userAgent": "browser"
-    },
-    "ip": "127.0.0.1"
-  },
-  {
-    "id": "log_1792075154443_l9hfhi",
-    "userId": "system",
-    "action": "OWNER_BOOTSTRAP_BLOCKED_ALREADY_EXISTS",
-    "timestamp": "2026-10-15T14:39:14.443Z",
-    "details": {
-      "ipSnippet": "127.0.0..."
-    },
-    "ip": "127.0.0.1"
-  },
-  {
-    "id": "log_1792075154442_khpl8t",
-    "userId": "user_owner_1792075154437_1w1k",
-    "action": "FIRST_OWNER_BOOTSTRAP_COMPLETED",
-    "timestamp": "2026-10-15T14:39:14.442Z",
-    "details": {
-      "username": "fresh_owner",
-      "email": "fresh_owner@zangi.app"
-    },
-    "ip": "127.0.0.1"
-  },
-  {
-    "id": "log_1792075154349_3qf1dq",
-    "userId": "system",
-    "action": "OWNER_BOOTSTRAP_SECRET_MISMATCH",
-    "timestamp": "2026-10-15T14:39:14.349Z",
-    "details": {
-      "ipSnippet": "127.0.0..."
-    },
-    "ip": "127.0.0.1"
-  },
-  {
-    "id": "log_1792075154328_vwzvjj",
-    "userId": "system",
-    "action": "OWNER_BOOTSTRAP_BLOCKED_ALREADY_EXISTS",
-    "timestamp": "2026-10-15T14:39:14.328Z",
-    "details": {
-      "ipSnippet": "127.0.0..."
-    },
-    "ip": "127.0.0.1"
-  },
-  {
-    "id": "log_1792075126375_rivao2",
-    "userId": "user_fahim",
-    "action": "PROFILE_UPDATED",
-    "timestamp": "2026-10-15T14:38:46.375Z",
-    "details": {
-      "displayName": "Fahim Ahmed Security Test"
-    },
-    "ip": "127.0.0.1"
-  },
-  {
-    "id": "log_1792075126369_r6f79",
-    "userId": "user_fahim",
-    "action": "PROFILE_UPDATED",
-    "timestamp": "2026-10-15T14:38:46.369Z",
-    "details": {
-      "passwordHash": "injected_malicious_hash_value",
-      "passwordSalt": "injected_salt",
-      "twoFactorSecret": "injected_totp_secret",
-      "twoFactorRecoveryCodes": [
-        "injected_code_1",
-        "injected_code_2"
-      ]
-    },
-    "ip": "127.0.0.1"
-  },
-  {
-    "id": "log_1792075126366_8lklb",
-    "userId": "user_1791625482952_c2em",
-    "action": "PROFILE_UPDATED",
-    "timestamp": "2026-10-15T14:38:46.366Z",
-    "details": {
-      "isVerified": true,
-      "isEmailVerified": true,
-      "isBanned": false
-    },
-    "ip": "127.0.0.1"
-  },
-  {
-    "id": "log_1792075126357_u1tfii",
-    "userId": "user_fahim",
-    "action": "PROFILE_UPDATED",
-    "timestamp": "2026-10-15T14:38:46.357Z",
-    "details": {
-      "creatorCoins": 999999
-    },
-    "ip": "127.0.0.1"
-  },
-  {
-    "id": "log_1792075126350_uoakji",
-    "userId": "user_fahim",
-    "action": "PROFILE_UPDATED",
-    "timestamp": "2026-10-15T14:38:46.350Z",
-    "details": {
-      "displayName": "Fahim Ahmed Security Test",
-      "role": "owner"
-    },
-    "ip": "127.0.0.1"
-  },
-  {
-    "id": "log_1792075115714_tc6pp8",
-    "userId": "user_1792075115712_9nly",
-    "action": "USER_REGISTERED",
-    "timestamp": "2026-10-15T14:38:35.714Z",
-    "details": {
-      "email": "recipient_1792075115574@zangi.app",
-      "username": "recipient_1792075115574"
-    },
-    "ip": "127.0.0.1"
-  },
-  {
-    "id": "log_1792075115644_5db5m4",
-    "userId": "user_1792075115641_jgn6",
-    "action": "USER_REGISTERED",
-    "timestamp": "2026-10-15T14:38:35.644Z",
-    "details": {
-      "email": "creator_1792075115574@zangi.app",
-      "username": "creator_1792075115574"
-    },
     "ip": "127.0.0.1"
   }
 ]

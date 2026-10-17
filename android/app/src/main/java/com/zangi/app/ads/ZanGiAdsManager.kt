@@ -46,7 +46,7 @@ class ZanGiAdsManager(private val context: Context) {
 
     private fun configureTestDevices() {
         try {
-            val testDeviceIds = listOf(RequestConfiguration.DEVICE_ID_EMULATOR)
+            val testDeviceIds: List<String> = listOf(AdRequest.DEVICE_ID_EMULATOR)
             val configuration = RequestConfiguration.Builder()
                 .setTestDeviceIds(testDeviceIds)
                 .build()

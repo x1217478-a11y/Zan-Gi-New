@@ -26,3 +26,7 @@ service-account*.json
 # Local database backups (contain user hashes and private content)
 backups/
 *.tmp.*
+
+# Local Android configuration
+local.properties
+**/local.properties

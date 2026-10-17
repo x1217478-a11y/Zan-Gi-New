@@ -2,6 +2,7 @@ package com.zangi.app
 
 import android.app.Application
 import android.util.Log
+import com.google.android.gms.ads.AdRequest
 import com.google.android.gms.ads.MobileAds
 import com.google.android.gms.ads.RequestConfiguration
 
@@ -14,7 +15,7 @@ class ZanGiApplication : Application() {
     }
 
     private fun initializeMobileAds() {
-        val testDeviceIds = listOf(RequestConfiguration.DEVICE_ID_EMULATOR)
+        val testDeviceIds: List<String> = listOf(AdRequest.DEVICE_ID_EMULATOR)
         val configuration = RequestConfiguration.Builder()
             .setTestDeviceIds(testDeviceIds)
             .build()

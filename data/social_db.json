@@ -1,6 +1,30 @@
 {
   "posts": [
     {
+      "id": "post_1792224923690_b7f9cf1d",
+      "authorId": "user_1792162225257_dwzw",
+      "content": "Scheduled future post test",
+      "postType": "text",
+      "mediaUrls": [],
+      "timestamp": "এইমাত্র",
+      "createdAt": "2026-10-17T08:15:23.690Z",
+      "likedUserIds": [],
+      "bookmarkedUserIds": [],
+      "comments": [],
+      "sharesCount": 0,
+      "hashtags": [
+        "FutureSchedule"
+      ],
+      "isAiAssisted": false,
+      "recommendationReason": "Published just now by you",
+      "isDemoData": false,
+      "viewsCount": 2,
+      "photoViewsCount": 0,
+      "audience": "public",
+      "audioVolume": 0.8,
+      "originalVolume": 0.8
+    },
+    {
       "id": "post_1792162180440_20bcfdc9",
       "authorId": "user_1792131213064_qvbj",
       "content": "Scheduled future post test",
@@ -18,7 +42,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 1,
+      "viewsCount": 3,
       "photoViewsCount": 0,
       "audience": "public",
       "audioVolume": 0.8,
@@ -42,7 +66,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 2,
+      "viewsCount": 4,
       "photoViewsCount": 0,
       "audience": "public",
       "audioVolume": 0.8,
@@ -66,7 +90,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 5,
+      "viewsCount": 7,
       "photoViewsCount": 0,
       "audience": "public",
       "audioVolume": 0.8,
@@ -92,7 +116,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 8,
+      "viewsCount": 10,
       "photoViewsCount": 0,
       "audience": "public",
       "audioTrack": {
@@ -131,7 +155,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 8,
+      "viewsCount": 10,
       "photoViewsCount": 0,
       "audience": "public",
       "audioTrack": {
@@ -184,7 +208,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 9,
+      "viewsCount": 11,
       "photoViewsCount": 0,
       "audience": "public",
       "audioVolume": 0.8,
@@ -208,7 +232,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 10,
+      "viewsCount": 12,
       "photoViewsCount": 0,
       "audience": "public",
       "audioVolume": 0.8,
@@ -232,7 +256,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 10,
+      "viewsCount": 12,
       "photoViewsCount": 0,
       "audience": "public",
       "audioVolume": 0.8,
@@ -256,7 +280,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 14,
+      "viewsCount": 16,
       "photoViewsCount": 0,
       "audience": "public",
       "audioVolume": 0.8,
@@ -280,7 +304,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 22,
+      "viewsCount": 24,
       "photoViewsCount": 0,
       "audience": "public"
     },
@@ -302,7 +326,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 28,
+      "viewsCount": 30,
       "photoViewsCount": 0,
       "audience": "public"
     },
@@ -324,7 +348,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 29,
+      "viewsCount": 31,
       "photoViewsCount": 0,
       "audience": "public"
     },
@@ -346,7 +370,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 31,
+      "viewsCount": 33,
       "photoViewsCount": 0,
       "audience": "public"
     },
@@ -368,7 +392,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 31,
+      "viewsCount": 33,
       "photoViewsCount": 0,
       "audience": "public"
     },
@@ -390,7 +414,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 34,
+      "viewsCount": 36,
       "photoViewsCount": 0,
       "audience": "public"
     },
@@ -412,7 +436,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 34,
+      "viewsCount": 36,
       "photoViewsCount": 0,
       "audience": "public"
     },
@@ -439,7 +463,7 @@
       "isAiAssisted": true,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 35,
+      "viewsCount": 37,
       "photoViewsCount": 1,
       "audience": "public"
     },
@@ -466,7 +490,7 @@
       "isAiAssisted": true,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 35,
+      "viewsCount": 37,
       "photoViewsCount": 2,
       "audience": "public"
     },
@@ -488,7 +512,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 35,
+      "viewsCount": 37,
       "photoViewsCount": 0,
       "audience": "public"
     },
@@ -510,7 +534,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37,
+      "viewsCount": 39,
       "photoViewsCount": 0,
       "audience": "public"
     },
@@ -532,7 +556,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1792070800553_4b61af63",
@@ -552,7 +576,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1792070311745_a0d1b6a7",
@@ -572,7 +596,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1792070105428_e13c6b76",
@@ -596,7 +620,7 @@
       "isAiAssisted": true,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1792067343730_df4ae093",
@@ -616,7 +640,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1792067343728_b80b413b",
@@ -636,7 +660,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1792040048766_c649cfff",
@@ -656,7 +680,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1792039212523_29694f7b",
@@ -676,7 +700,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1792024515220_7f9c9acd",
@@ -696,7 +720,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1792004655780_4c4a3b5a",
@@ -716,7 +740,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1792004467528_dfb7952a",
@@ -736,7 +760,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1792000463484_e5aef271",
@@ -756,7 +780,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791996394732_ce53ee47",
@@ -776,7 +800,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791992804647_5fccc035",
@@ -796,7 +820,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791992474617_75be8369",
@@ -816,7 +840,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791991480930_6b29cf03",
@@ -836,7 +860,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791991480928_80d48d02",
@@ -856,7 +880,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791989646286_1436393e",
@@ -876,7 +900,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791989199607_4b4962cf",
@@ -896,7 +920,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791988867046_edccc8d5",
@@ -916,7 +940,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791986715750_5779cca0",
@@ -936,7 +960,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791986150142_5ff17136",
@@ -956,7 +980,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791981968776_06692d17",
@@ -976,7 +1000,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791981968775_e4a1c557",
@@ -996,7 +1020,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791962990534_7232e8ef",
@@ -1016,7 +1040,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791960669443_2cd015c2",
@@ -1036,7 +1060,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791960507241_cf03d631",
@@ -1056,7 +1080,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791960507240_1f76d6c9",
@@ -1076,7 +1100,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791960507240_79de3635",
@@ -1096,7 +1120,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791960507239_ab5e5aae",
@@ -1116,7 +1140,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791960507238_8ff8fa90",
@@ -1136,7 +1160,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791955056879_f3286934",
@@ -1156,7 +1180,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791954117144_c054a618",
@@ -1176,7 +1200,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791953658109_48d726df",
@@ -1196,7 +1220,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791952551607_18438233",
@@ -1216,7 +1240,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791952021923_8c21fa2e",
@@ -1236,7 +1260,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791951903697_68be8f29",
@@ -1256,7 +1280,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791951903697_0ac323ec",
@@ -1276,7 +1300,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791951903696_ad0fb0c1",
@@ -1296,7 +1320,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791879804745_99026dc4",
@@ -1316,7 +1340,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791879795594_2988c493",
@@ -1336,7 +1360,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791879725345_4ee2cdcf",
@@ -1356,7 +1380,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_1791868008279_b86976f3",
@@ -1377,7 +1401,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Published just now by you",
       "isDemoData": false,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_seed_1",
@@ -1414,7 +1438,7 @@
       "isAiAssisted": true,
       "recommendationReason": "Because you follow Tech & AI Creators in Dhaka",
       "isDemoData": true,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_seed_2",
@@ -1442,7 +1466,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Popular in Visual Arts & Landscape Photography",
       "isDemoData": true,
-      "viewsCount": 37
+      "viewsCount": 39
     },
     {
       "id": "post_seed_3",
@@ -1463,7 +1487,7 @@
       "isAiAssisted": false,
       "recommendationReason": "Verified Test Advertisement",
       "isDemoData": true,
-      "viewsCount": 37
+      "viewsCount": 39
     }
   ],
   "reels": [
@@ -1603,6 +1627,64 @@
   },
   "scheduledPosts": [
     {
+      "id": "sched_1792225276628_fcb74185",
+      "authorId": "user_1792225276557_5pdi",
+      "content": "Due scheduled post recovery test",
+      "postType": "text",
+      "mediaUrls": [],
+      "scheduledAt": "2026-10-17T08:20:16.628Z",
+      "status": "published",
+      "hashtags": [
+        "RecoveryTest"
+      ],
+      "isAiAssisted": false,
+      "createdAt": "2026-10-17T08:21:16.628Z",
+      "publishedPostId": "post_1792225276629_bf6dbcc9"
+    },
+    {
+      "id": "sched_1792225276626_c056a7fb",
+      "authorId": "user_1792225276557_5pdi",
+      "content": "Scheduled future post test",
+      "postType": "text",
+      "mediaUrls": [],
+      "scheduledAt": "2026-10-17T09:21:16.626Z",
+      "status": "pending",
+      "hashtags": [
+        "FutureSchedule"
+      ],
+      "isAiAssisted": false,
+      "createdAt": "2026-10-17T08:21:16.626Z"
+    },
+    {
+      "id": "sched_1792224981865_d3def4c6",
+      "authorId": "user_1792224981794_mrwi",
+      "content": "Due scheduled post recovery test",
+      "postType": "text",
+      "mediaUrls": [],
+      "scheduledAt": "2026-10-17T08:15:21.865Z",
+      "status": "published",
+      "hashtags": [
+        "RecoveryTest"
+      ],
+      "isAiAssisted": false,
+      "createdAt": "2026-10-17T08:16:21.865Z",
+      "publishedPostId": "post_1792224981866_868a8cc7"
+    },
+    {
+      "id": "sched_1792224981862_b9a74189",
+      "authorId": "user_1792224981794_mrwi",
+      "content": "Scheduled future post test",
+      "postType": "text",
+      "mediaUrls": [],
+      "scheduledAt": "2026-10-17T09:16:21.862Z",
+      "status": "pending",
+      "hashtags": [
+        "FutureSchedule"
+      ],
+      "isAiAssisted": false,
+      "createdAt": "2026-10-17T08:16:21.863Z"
+    },
+    {
       "id": "sched_1792162225428_68b20f79",
       "authorId": "user_1792162225257_dwzw",
       "content": "Due scheduled post recovery test",
@@ -1624,12 +1706,13 @@
       "postType": "text",
       "mediaUrls": [],
       "scheduledAt": "2026-10-16T15:50:25.425Z",
-      "status": "pending",
+      "status": "published",
       "hashtags": [
         "FutureSchedule"
       ],
       "isAiAssisted": false,
-      "createdAt": "2026-10-16T14:50:25.425Z"
+      "createdAt": "2026-10-16T14:50:25.425Z",
+      "publishedPostId": "post_1792224923690_b7f9cf1d"
     },
     {
       "id": "sched_1792131213188_a983d70f",
